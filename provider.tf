@@ -1,3 +1,4 @@
+#Past this in provider.tf file
 terraform {
   required_providers {
     aws = {
@@ -43,3 +44,4 @@ variable "tagging" {
   }
 }
   
+
