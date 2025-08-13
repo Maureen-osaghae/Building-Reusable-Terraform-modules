@@ -262,7 +262,7 @@ And our security group:
 <img width="620" height="332" alt="image" src="https://github.com/user-attachments/assets/333d4fc9-9f8e-4dfa-ba84-8bdc881eca57" />
 
 <h2>Tear Down</h2>
-Nice work! You’ve successfully built a reusable Terraform module for creating an EC2 instance and built in some validation rules to ensure the instance is created to your standards. The code can be shared and reused across multiple projects or teams and the EC2 will always be created to the required standard.
+I’ve successfully built a reusable Terraform module for creating an EC2 instance and built in some validation rules to ensure the instance is created to my standards. The code can be shared and reused across multiple projects or teams and the EC2 will always be created to the required standard.
 
 Now, let’s clean up our lab and destroy the resources we created. Run terraform destroy and then confirm:
 
