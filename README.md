@@ -1,6 +1,9 @@
 <h1>Building Reusable Terraform modules</h1>
 
-Creating a terraform Modules is important when working in an business environment or with teams. You need to have a standard, consistent, and secure way of creating resources. This is where modules come in handy. We can create a module that defines the standard way to create certain resources, and then share that module with other teams or projects. That way, infrastructure built will always meet our required standards. Today, I learn how to create a module for an EC2 instance in this lab. 
+Creating a terraform Modules is important when working in an business environment or with teams. You need to have a standard, consistent, and secure way of creating resources. This is where modules come in handy. We can create a module that defines the standard way to create certain resources, and then share that module with other teams or projects. That way, infrastructure built will always meet our required standards. Today, I learned how to create a module for an EC2 instance in this lab. 
+
+<img width="202" height="301" alt="image" src="https://github.com/user-attachments/assets/871d3e6c-768d-4c52-bb64-40ab450f07cf" />
+
 
 
 <h2>Created Module Directory Structure and Associated Files</h2>
