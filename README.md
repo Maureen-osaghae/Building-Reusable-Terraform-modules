@@ -231,7 +231,7 @@ The validate command is very useful here. If we update our code to not conform t
 
 <img width="722" height="182" alt="image" src="https://github.com/user-attachments/assets/b716b2c4-fdec-4420-81be-dd8c5a08a2ce" />
 
-terraform plan then follow by terraform apply
+Terraform plan then follow by Terraform apply
 
         terraform apply -var 'tagging={name="maureen-instance", BusinessUnit="infosec"}'
 
